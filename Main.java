@@ -10,8 +10,7 @@ public class Main implements Directions {
     public static void main(String[] args) {
         new JerooGUI();
         runJerooCode();
-
-    }
+    }  
 
     /**
      * Put your main Jeroo code here.
